@@ -1,6 +1,6 @@
 # clicky-game
 
-## The idea of the game is to click all the pictures only once!!!
+### The idea of the game is to click all the pictures only once!!!
 
 ### The home page let the game begin.
 ![initial Homepage](public/screenshots/openingScreen.png)
