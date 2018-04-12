@@ -14,5 +14,5 @@
 ### Click on the delete button to remove the article or the notes to add notes to the article.
 ![winning screen](public/screenshots/winScreen.png)
 
-Thank you
-Walter Zuschlag
+#### Thank you
+#### Walter Zuschlag
