@@ -1,6 +1,9 @@
 # clicky-game
 
 ### The idea of the game is to click all the pictures only once!!!
+### Begin the fun by clicking on the following path.
+
+https://gentle-bayou-37712.herokuapp.com/
 
 ### The home page let the game begin.
 ![initial Homepage](public/screenshots/openingScreen.png)
